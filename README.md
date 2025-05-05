@@ -1,8 +1,9 @@
-                                                           👋 Hi, I’m @amila-wije
+ 👋 Hi, I’m @amila-wije
                                         Passionate Computer Science Student | Exploring the Boundless World of Technology
-                                                - 👀 I’m interested in Web Development
-                                                - 🌱 I’m currently learning MERN Stack
-                                                - 📫 How to reach me amilasampathas97@gmail.com
+                                        - 👀 I’m interested in Web Development
+                                      - 🌱 I’m currently learning MERN Stack
+                                    
+                                    - 📫 How to reach me amilasampathas97@gmail.com
 
 
 <!---
