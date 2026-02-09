@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amila-wije&label=Profile%20views&color=0e75b6&style=flat" alt="amila-wije" /> </p>
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning AWS **AI**
+- ☁️ I've keen interest in  **AI**
 
 - 🤝 I’m looking for help with **React,Express, Nodejs, MongoDB**
 
